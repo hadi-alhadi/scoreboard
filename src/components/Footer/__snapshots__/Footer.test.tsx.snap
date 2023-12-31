@@ -1,0 +1,37 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`footer > should render 1`] = `
+<footer
+  class="sc-HzRMQ SLHHK MuiBox-root"
+  data-testid="footer"
+>
+  <div
+    class="MuiContainer-root-Bmntt bMzjnc MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      class="MuiContainer-root-Bmntt bUDjfM MuiContainer-root MuiContainer-maxWidthLg"
+    >
+      <a
+        class="MuiTypography-root-ieDiFq czpiQF MuiTypography-root MuiTypography-inherit MuiLink-root-bAfifx iTvSWk MuiLink-root MuiLink-underlineNone"
+        href="https://linkedin.com/in/hadi-al-hadi"
+        target="_blank"
+      >
+        LinkedIn
+      </a>
+      <a
+        class="MuiTypography-root-ieDiFq czpiQF MuiTypography-root MuiTypography-inherit MuiLink-root-bAfifx iTvSWk MuiLink-root MuiLink-underlineNone"
+        href="https://github.com/hadi-alhadi"
+        target="_blank"
+      >
+        GitHub
+      </a>
+    </div>
+    <p
+      class="MuiTypography-root-ieDiFq jcuooA MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter"
+      data-testid="copyright"
+    >
+      Copyright © Hadi Alhadi 2023. All rights reserved.
+    </p>
+  </div>
+</footer>
+`;
